@@ -1,0 +1,28 @@
+<wpml-config>
+	<!-- Admin Texts -->
+	<admin-texts>
+		<key name="theme_mods_Total">
+			<key name="custom_logo" />
+			<key name="retina_logo" />
+			<key name="retina_logo_height" />
+			<key name="retina_logo_width" />
+			<key name="top_bar_content" />
+			<key name="error_page_title" />
+			<key name="error_page_text" />
+			<key name="callout_text" />
+			<key name="callout_link" />
+			<key name="callout_link_txt" />
+			<key name="footer_copyright_text" />
+			<key name="blog_entry_readmore_text" />
+			<key name="social_share_heading" />
+			<key name="portfolio_related_title" />
+			<key name="staff_related_title" />
+			<key name="blog_related_title" />
+			<key name="theme_branding" />
+			<key name="toggle_bar_page" />
+			<key name="header_aside" />
+			<key name="woo_shop_single_title" />
+		</key>
+		<key name="woocommerce_price_display_suffix"/>
+	</admin-texts>
+</wpml-config>
