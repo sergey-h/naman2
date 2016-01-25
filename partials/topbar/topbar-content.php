@@ -37,4 +37,5 @@ if ( $content ) : ?>
 	<div id="top-bar-content" class="clr <?php echo $classes; ?>">
 		<?php echo do_shortcode( $content ); ?>
 	</div><!-- #top-bar-content -->
+	<div style="clear:both;"></div>
 <?php endif; ?>

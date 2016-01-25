@@ -41,6 +41,16 @@ $copyright = get_theme_mod( 'footer_copyright_text', 'Copyright 2014 <a href="ht
 				'sort_column'		=> 'menu_order',
 				'fallback_cb'		=> false,
 			) ); ?>
+            
+            <span class="contect-with-us-text">Contact us with</span> 
+
+            <div class="clr top-bar-left social-style-font_icons" id="top-bar-social">
+                <a target="_blank" title="Facebook" href="https://www.facebook.com/BarclaysRE?sk=wall"> <img src="<?php bloginfo('template_directory');?>/images/social/facebook.png" /> </a>
+                <a target="_blank" title="Google Plus" href="https://plus.google.com/+EliasPatsalos/posts"> <img src="<?php bloginfo('template_directory');?>/images/social/googleplus.png" /></a> 
+                <a target="_blank" title="Twitter" href="https://twitter.com/BarclaysRealEst"> <img src="<?php bloginfo('template_directory');?>/images/social/twitter.png" /> </a> 
+                <a target="_blank" title="linkedin" href="https://www.linkedin.com/in/eliaspatsalos"> <img src="<?php bloginfo('template_directory');?>/images/social/linkedin-new.png" /> </a>
+                <a target="_blank" title="RSS" href="http://warehousesindoral.com/barclay/blog/feed/"> <img src="<?php bloginfo('template_directory');?>/images/social/rss.png" /> </a>
+           </div>
 		</div><!-- #footer-bottom-menu -->
 	</div><!-- #footer-bottom-inner -->
 </div><!-- #footer-bottom -->

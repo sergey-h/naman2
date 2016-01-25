@@ -23,12 +23,14 @@ if ( ! wpex_display_header() ) {
 	return;
 } ?>
 
-<?php wpex_hook_header_before(); ?>
+<?php //wpex_hook_header_before(); ?>
 
 	<header id="site-header" class="<?php wpex_header_classes(); ?>" role="banner">
 		<?php wpex_hook_header_top(); ?>
 		<div id="site-header-inner" class="container clr">
 			<?php wpex_hook_header_inner(); ?>
+            <?php wpex_hook_header_before(); ?>
+
 		</div><!-- #site-header-inner -->
 		<?php wpex_hook_header_bottom(); ?>
 	</header><!-- #header -->

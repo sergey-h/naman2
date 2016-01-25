@@ -1,0 +1,6 @@
+[23-Jul-2015 01:30:23 America/Chicago] PHP Fatal error:  Call to undefined function get_theme_mod() in /home3/griego/public_html/wp-content/themes/Total/404.php on line 14
+[05-Dec-2015 14:39:49 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/griego/public_html/wp-content/themes/Total/index.php on line 21
+[05-Dec-2015 14:40:01 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/griego/public_html/wp-content/themes/Total/index.php on line 21
+[19-Dec-2015 09:38:27 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/griego/public_html/wp-content/themes/Total/index.php on line 21
+[12-Jan-2016 03:18:29 America/Chicago] PHP Fatal error:  Call to undefined function get_theme_mod() in /home3/griego/public_html/wp-content/themes/Total/404.php on line 14
+[12-Jan-2016 03:33:30 America/Chicago] PHP Fatal error:  Call to undefined function get_theme_mod() in /home3/griego/public_html/wp-content/themes/Total/404.php on line 14

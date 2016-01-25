@@ -22,7 +22,7 @@ if( ! wpex_is_top_bar_enabled() ) {
 } ?>
 
 <div id="top-bar-wrap" class="clr <?php echo get_theme_mod( 'top_bar_visibility', 'always-visible' ); ?>">
-	<div id="top-bar" class="clr container">
+	<div id="top-bar" class="clr">
 		<?php
 		// Get topbar content
 		get_template_part( 'partials/topbar/topbar', 'content' );
